@@ -1,0 +1,10 @@
+Coursesand points:-
+1.mca:
+credit - 4
+point - 4.0
+2.bca:
+credit - 5
+point - 3.5
+3.pgdca:
+credit - 6
+point - 6.5
